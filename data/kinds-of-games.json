@@ -1,0 +1,18 @@
+[
+    {
+        "kindID":1,
+        "kindName":"battle"
+    },
+    {
+        "kindID":2,
+        "kindName":"card"
+    },
+    {
+        "kindID":3,
+        "kindName":"board"
+    },
+    {
+        "kindID":4,
+        "kindName":"party"
+    }
+]

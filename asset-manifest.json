@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jfdz12-fantasy-code-app/static/css/main.85217fed.chunk.css",
+    "main.js": "/jfdz12-fantasy-code-app/static/js/main.2e6881b0.chunk.js",
+    "main.js.map": "/jfdz12-fantasy-code-app/static/js/main.2e6881b0.chunk.js.map",
+    "runtime-main.js": "/jfdz12-fantasy-code-app/static/js/runtime-main.97088eee.js",
+    "runtime-main.js.map": "/jfdz12-fantasy-code-app/static/js/runtime-main.97088eee.js.map",
+    "static/css/2.2643f009.chunk.css": "/jfdz12-fantasy-code-app/static/css/2.2643f009.chunk.css",
+    "static/js/2.dad816bc.chunk.js": "/jfdz12-fantasy-code-app/static/js/2.dad816bc.chunk.js",
+    "static/js/2.dad816bc.chunk.js.map": "/jfdz12-fantasy-code-app/static/js/2.dad816bc.chunk.js.map",
+    "index.html": "/jfdz12-fantasy-code-app/index.html",
+    "precache-manifest.528b3cc186bdf483471dd4d28a569c35.js": "/jfdz12-fantasy-code-app/precache-manifest.528b3cc186bdf483471dd4d28a569c35.js",
+    "service-worker.js": "/jfdz12-fantasy-code-app/service-worker.js",
+    "static/css/2.2643f009.chunk.css.map": "/jfdz12-fantasy-code-app/static/css/2.2643f009.chunk.css.map",
+    "static/css/main.85217fed.chunk.css.map": "/jfdz12-fantasy-code-app/static/css/main.85217fed.chunk.css.map",
+    "static/media/friends.png": "/jfdz12-fantasy-code-app/static/media/friends.b2d0a21a.png",
+    "static/media/join.png": "/jfdz12-fantasy-code-app/static/media/join.d9944d04.png",
+    "static/media/open.png": "/jfdz12-fantasy-code-app/static/media/open.00f4e123.png",
+    "static/media/spot.png": "/jfdz12-fantasy-code-app/static/media/spot.5c30946c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97088eee.js",
+    "static/css/2.2643f009.chunk.css",
+    "static/js/2.dad816bc.chunk.js",
+    "static/css/main.85217fed.chunk.css",
+    "static/js/main.2e6881b0.chunk.js"
+  ]
+}
